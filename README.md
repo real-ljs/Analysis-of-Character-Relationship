@@ -5,9 +5,9 @@
 |——jinyong
     |——data
 	|——bangs.txt  #  帮派词库
-	|——kungfu.txt  #  功夫词库
+	|——kungfu.txt #  功夫词库
 	|——names.txt  #  小说人物名词库
-|——result  #  保存结果
+|——result # 保存结果
 |——model  # 模型参数
 |—— counts.py # 数据读取、数据转换等预处理逻辑
 |—— train.py # word2vec训练代码
