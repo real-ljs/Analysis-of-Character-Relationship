@@ -6,7 +6,7 @@
 
 > |——jinyong
 >
-> ​		  |——data
+>      |——data
 >
 > ​		   		 |——bangs.txt  #  帮派词库
 >
