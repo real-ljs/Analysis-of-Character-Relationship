@@ -1,6 +1,7 @@
 # Analysis-of-Character-Relationship
 金庸小说人物关系分析
 ##  代码结构说明
+```
 |——jinyong
     |——data
 	      |——bangs.txt  #  帮派词库
@@ -11,6 +12,7 @@
 |—— counts.py # 数据读取、数据转换等预处理逻辑
 |—— train.py # word2vec训练代码
 |—— use.py # word2vec使用代码
+```
 
 ## 说明
 
